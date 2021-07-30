@@ -46,7 +46,8 @@ In this project you can subscribe to read posts about the ReactJS world.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/ig.news.git && cd ig.news
+$ git clone https://github.com/leandrorodrigues00/ig.news.git && cd ig.news
+
 ```
 
 **Follow the steps below**
