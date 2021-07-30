@@ -28,8 +28,7 @@ export default function Posts({ posts }: PostsProps) {
             <main className={styles.container}>
                 <div className={styles.posts}>
                     {posts.map((post) => (
-                        // eslint-disable-next-line react/jsx-key
-                        <Link href={`/posts/${post.slug}`}>
+                        <Link href={`/posts/${post.slug}`} key={post.slug}>
                             <a key={post.slug}>
                                 <time>{post.updatedAt}</time>
                                 <strong>{post.title}</strong>
@@ -72,8 +71,6 @@ export const getStaticProps: GetStaticProps = async () => {
             ),
         };
     });
-
-    console.log(JSON.stringify(response, null, 2));
     return {
         props: {
             posts,
