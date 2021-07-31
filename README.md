@@ -26,6 +26,8 @@ Ig.news is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite 
 
 In this project you can subscribe to read posts about the ReactJS world.
 
+[click here, see closer](https://ig-news-pcrdwxrq5-leandrorodrigues00.vercel.app/)  😉
+
 ## 🚀 Technologies
 
 - [Next.js](https://nextjs.org/)
