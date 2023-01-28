@@ -24,7 +24,9 @@
 
 Ig.news is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
 
-In this project you can subscribe to read posts about the ReactJS world.
+You can use it to read the latest news about ReactJS. It has integration with Stripe for payments and requires a subscription to read.
+
+<b>Note</b>: You will need a GitHub account to subscribe.
 
 [click here, see closer](https://ig-news-pcrdwxrq5-leandrorodrigues00.vercel.app/)  😉
 
